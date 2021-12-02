@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anwesharoses&label=Profile%20views&color=0e75b6&style=flat" alt="anwesharoses" /> </p>
 
-- 🔭 I’m currently working on **My Portfolio**
+- 🔭 I’m currently working on **My Notes Website**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **MERN**
 
 - 👯 I’m looking to collaborate on **React based websites**
 
