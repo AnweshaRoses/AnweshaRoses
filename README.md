@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anwesharoses&label=Profile%20views&color=0e75b6&style=flat" alt="anwesharoses" /> </p>
 
-- 🔭 I’m currently working on **My Notes Website**
+- 🔭 I’m currently working on **Different React Projects**
 
 - 🌱 I’m currently learning **MERN**
 
