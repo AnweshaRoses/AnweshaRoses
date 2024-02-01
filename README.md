@@ -9,7 +9,6 @@
 
 - 👯 I’m looking to collaborate on **React based websites**
 
-- 👨‍💻 All of my projects are available at [https://anwesharoses.github.io/Portfolio/](https://anwesharoses.github.io/Portfolio/)
 
 - 📫 How to reach me **anwesharoses@gmail.com**
 
